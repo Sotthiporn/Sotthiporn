@@ -4,4 +4,4 @@ I'm a Software Engineer from Cambodia 🇰🇭, Currently based in Phnom Penh. I
 
 ## Portfolio
 
-For a deeper insight into my professional background and projects, feel free to explore my portfolio at [sotthiporn.netlify.app](https://sotthiporn.netlify.app).
+For a deeper insight into my professional background and projects, feel free to explore my portfolio at [sotthiporn-portfolio.vercel.app](https://sotthiporn-portfolio.vercel.app).
